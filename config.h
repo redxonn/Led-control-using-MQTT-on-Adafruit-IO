@@ -2,8 +2,8 @@
 
 // visit io.adafruit.com if you need to create an account,
 // or if you need your Adafruit IO key.
-#define IO_USERNAME    "priyajit8"
-#define IO_KEY         "d46396ea77154de8b25c2256a4635eae"
+#define IO_USERNAME    "**Enter Your User Name**"
+#define IO_KEY         "**************Enter Your Key ****************"
 
 /******************************* WIFI **************************************/
 
@@ -13,8 +13,8 @@
 //   - Feather M0 WiFi -> https://www.adafruit.com/products/3010
 //   - Feather WICED -> https://www.adafruit.com/products/3056
 
-#define WIFI_SSID       "OnePlus"
-#define WIFI_PASS       "12345678"
+#define WIFI_SSID       "**Wifi Router Name"
+#define WIFI_PASS       "**Password of Network**"
 
 // comment out the following two lines if you are using fona or ethernet
 #include "AdafruitIO_WiFi.h"
