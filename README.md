@@ -9,4 +9,4 @@ Create a new Dashboard in Adafruit IO.
 Open the dashboard and add new block by clicking on the "+" sign, choose an appropriate block according to your use.
 Link the block with your Feed.
 
-Thats it. you can now control the LED using the dashboard.
+Thats it. you can now control the LED using the Adafruit IO dashboard.
